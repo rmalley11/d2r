@@ -1,0 +1,18 @@
+March 5, 2014
+
+Accomplished Thus Far :
+
+Decided to use JSON for file formatting. 
+Found driver that converts DHT output into readable text
+Wired circuit using an RPi breakout board to hook up temp sensor to RPi.
+Recieved understandable readings from DHT22 being sent to RPi.
+
+Changed :
+
+Went into more depth on the inner working of each device.
+Researched manchester encoding and microcontroller before using the Pi.
+
+To Do:
+
+Send temperature signal through a network.
+Store data in a file format such as JSON.
